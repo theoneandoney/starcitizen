@@ -1,0 +1,2 @@
+# starcitizen
+scripts for keybindings
